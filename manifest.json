@@ -1,0 +1,30 @@
+{
+	"name": "landingpage",
+	"short_name": "landingpage",
+	"start_url": "/index.html",
+	"display": "standalone",
+	"background_color": "#1D4971",
+	"theme_color": "#db4938",
+	"orientation": "portrait-primary",
+	"icons": [
+		{
+			"src": "asset/icon-72x72.png",
+			"type": "image/png",
+			"sizes": "72x72",
+			"purpose": "any maskable"
+		},
+		{
+			"src": "asset/icon-128x128.png",
+			"type": "image/png",
+			"sizes": "128x128",
+			"purpose": "any maskable"
+		},
+		{
+			"src": "asset/icon-512x512.png",
+			"type": "image/png",
+			"sizes": "512x512",
+			"purpose": "any maskable"
+		}
+		
+	]
+}
